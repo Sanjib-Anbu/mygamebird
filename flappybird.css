@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(15, 53, 58);
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+    border-radius: 20px;
+    box: shadow 20px;
+}
+
+.copyright {
+    font-family: 'Micro 5', sans-serif; /* Set the font family */
+    color: #ffffff; /* Set text color to white */
+    text-shadow: 0 0 10px #00ff00; /* Add neon glow effect */
+    font-size: 36px;
+}
